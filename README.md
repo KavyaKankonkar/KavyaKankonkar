@@ -1,23 +1,24 @@
-## Hi there 👋
+# Hi there, I'm Kavya Kankonkar! 👋
 
-<!--
-**KavyaKankonkar/KavyaKankonkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 3rd Year IT Student | SVKM's Dwarkadas J. Sanghvi College of Engineering
 
-Here are some ideas to get you started:
+🚀 I build real-world projects using JavaScript, AI APIs & Chrome Extensions
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<details>	
-    <summary><b>GSSOC(24) Badges 🪶</b></summary><br>
-   <div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
-   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" />
+## 🔧 What I'm working on
+- 🧩 Smart Gmail Assistant — AI-powered Chrome Extension 
+  (Groq LLaMA 3.3 70B + Google OAuth + Gmail highlighting)
+
+## 💻 Tech Stack
+JavaScript | Chrome Extension MV3 | REST APIs | 
+Groq API | Google Identity API | HTML | CSS
+
+## 🏆 Achievements
+- GSSoC '24 Contributor
+- Published Chrome Extension on Chrome Web Store
+
+## 📫 Reach me at
+kavyamkankonkar@gmail.com
+www.linkedin.com/in/kavya-kankonkar-b829a9290
      <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="100px" height="100px" />
      <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" width="100px" height="100px" />
      <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" width="100px" height="100px" />
