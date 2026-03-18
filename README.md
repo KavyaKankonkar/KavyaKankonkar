@@ -19,6 +19,9 @@ Groq API | Google Identity API | HTML | CSS
 ## 📫 Reach me at
 kavyamkankonkar@gmail.com
 www.linkedin.com/in/kavya-kankonkar-b829a9290
+
+
+# These are my Gssoc earned badges:
      <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="100px" height="100px" />
      <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" width="100px" height="100px" />
      <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" width="100px" height="100px" />
