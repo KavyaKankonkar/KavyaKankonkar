@@ -1,6 +1,6 @@
 # Hi there, I'm Kavya Kankonkar! 👋
 
-🎓 3rd Year IT Student | SVKM's Dwarkadas J. Sanghvi College of Engineering
+🎓 4th Year IT Student | SVKM's Dwarkadas J. Sanghvi College of Engineering
 
 🚀 I build real-world projects using JavaScript, AI APIs & Chrome Extensions
 
